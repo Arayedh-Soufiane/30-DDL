@@ -1,4 +1,3 @@
-USE name_of_database;
 --1-  You are asked to create the above given relational model using SQL language and based on the different mentioned constraints.
 CREATE TABLE Costumer (
     Costumer_id VARCHAR2(20) PRIMARY KEY,
